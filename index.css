@@ -1,0 +1,224 @@
+.nav {
+    background-color: #f13f1a;
+    border: 3px solid #f13f1a;
+    border-radius: 25px;
+    padding: 16px 10px;
+    overflow: hidden;
+    width: 80%;
+    margin: 10%;
+    margin-top: -7px;
+    float: left;
+    text-align: center;
+}
+
+body {
+    font-family: Sofia;
+}
+
+span {
+    color: #f13f1a;
+    font-style: italic;
+    font-family: sofia;
+}
+
+.first {
+    width: 210px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+a {
+    color: white;
+    padding: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: start;
+}
+
+u {
+    padding: 44px;
+    font-size: 20px;
+    color: white;
+}
+
+.topic {
+    padding: 30px;
+    margin-right: 50px;
+    text-align: start;
+    color: white;
+    font-family: sofia;
+    font-size: 25px;
+    float: left;
+    line-height: 1.5;
+}
+
+.color {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-right: -8px;
+    margin-top: -8px;
+    margin-left: -8px;
+
+}
+
+#b {
+    width: 38%;
+    height: 45px;
+    border: #f13f1a 1px solid;
+    border-radius: 10px;
+    background-color: black;
+    color: #f13f1a;
+    font-size: 20px;
+    text-decoration: none;
+    font-style: italic;
+}
+
+.shape {
+    padding: 90px;
+    margin-left: 131px;
+    margin-top: 35px;
+    width: 380px;
+}
+
+h3 {
+    color: red;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.color2 {
+    background-color: rgb(219 218 218);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 90px;
+    margin: -8px;
+}
+
+.m {
+    border: 2px solid red;
+    border-radius: 85px;
+    width: 112px;
+    height: 110px;
+}
+
+.order1 hr {
+    width: 15px;
+}
+
+.order1 {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    border: 5px solid #f13f1a;
+    margin: 0;
+}
+
+.menu-container {
+    display: flex;
+}
+
+.menu-container>div {
+    margin-left: 10px;
+    padding: 20px;
+    font-size: 20px;
+    width: 250px;
+}
+
+.pic {
+    width: 50px;
+    height: 40px;
+    position: relative;
+    top: 100px;
+    margin: 100px;
+}
+
+.card {
+    background: linear-gradient(to top right, #f13f1a, black);
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.time {
+    display: flex;
+    margin-right: 14px;
+    padding: 10px;
+}
+
+button {
+    border: 2px black solid;
+    border-radius: 15px;
+    background-color: #f32a00;
+    color: white;
+    width: 100px;
+    height: 30px;
+}
+
+.color3 {
+    background-color: black;
+    margin-right: -93px;
+    margin-top: 0px;
+    margin-left: -93px;
+    margin-bottom: -95px;
+}
+
+.check {
+    color: white;
+    font-size: 24px;
+    border: 1px solid #c21010;
+    border-radius: 15px;
+    width: 150px;
+    background-color: #c21010;
+    margin-left: 650px;
+    margin-bottom: 25px;
+    padding: 10px;
+    text-align: center;
+}
+
+.main-info {
+    display: flex;
+    color: white;
+}
+
+.main-info>div {
+    margin-left: 150px;
+    padding: 20px;
+    font-size: 23px;
+    width: 250px;
+}
+
+#hr {
+    width: 1200px;
+    height: 1px;
+}
+
+.join {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.links i {
+    margin-left: 350px;
+    padding: 0px;
+    color: white;
+    background-color: black;
+    font-size: 40px;
+}
+
+h5 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+}
